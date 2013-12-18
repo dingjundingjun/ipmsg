@@ -10,7 +10,7 @@
 
 /*  header  */
 #define IPMSG_VERSION			0x0001
-#define IPMSG_DEFAULT_PORT		0x0979
+#define IPMSG_DEFAULT_PORT		0x0979    //2425  ipmsg端口
 
 /*  command  */
 #define IPMSG_NOOPERATION		0x00000000UL

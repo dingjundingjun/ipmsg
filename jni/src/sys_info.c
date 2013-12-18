@@ -5,6 +5,7 @@
 
 static SYSINFO sysInfo;
 
+//初始化用户名和机器名
 void initSystem(const char *name, const char *machine)
 {
 	memset(&sysInfo, 0, sizeof(sysInfo));
